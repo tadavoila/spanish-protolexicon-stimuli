@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: Morfessor
+Version: 2.0.6
+Summary: A tool for unsupervised and semi-supervised morphological segmentation
+Home-page: http://morpho.aalto.fi/projects/morpho/morfessor2.html
+Author: Sami Virpioja, Peter Smit, Stig-Arne Grönroos
+Author-email: morpho@aalto.fi
+License: BSD
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Scientific/Engineering
+Provides-Extra: docs
+License-File: LICENSE
